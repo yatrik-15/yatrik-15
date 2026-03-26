@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on: Optimizing Machine Learning models and building my portfolio.<br>👯 I’m looking to collaborate on: Innovative AIML research or startup-level freelancing.<br>🌱I’m currently learning: Deep Learning architectures, Large Language Models and Generative AI.<br>🌱 I’m currently learning<br>💬 Ask me about: AIML trends, Data Preprocessing, or my B.Tech journey, ML projects I've built.<br>⚡ Fun fact: I actually enjoy cleaning messy datasets (the ultimate developer therapy).
+🔭 I’m currently working on: Optimizing Machine Learning models and building my portfolio.<br>👯 I’m looking to collaborate on: Innovative AIML research or startup-level freelancing.<br>🌱I’m currently learning: Deep Learning architectures, Large Language Models and Generative AI.<br>💬 Ask me about: AIML trends, Data Preprocessing, or my B.Tech journey, ML projects I've built.<br>⚡ Fun fact: I actually enjoy cleaning messy datasets (the ultimate developer therapy).
 
 
 ## 🌐 Socials:
